@@ -1,6 +1,7 @@
 # BPRefresh
 
 > a pull to refresh ripple animate plugin
+> 一个水波纹效果的下拉刷新插件
 
 ### How to use
  
