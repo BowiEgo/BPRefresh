@@ -15,6 +15,7 @@
 ``` 
     
 ```
+<script type="text/javascript">
     new BPRefresh({
         el: 'demo',
         loading: 'img/loading.svg',
@@ -24,4 +25,5 @@
         document.getElementsByClassName('BPRefresh__content')[0].appendChild(tempEl);
         reset();
     });
+</script>
 ```
