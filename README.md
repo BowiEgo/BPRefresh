@@ -18,7 +18,8 @@
 <script type="text/javascript">
     new BPRefresh({
         el: 'demo',
-        loading: 'img/loading.svg',
+        pullBgColor: 'rgba(0,0,0,0.3)',
+        loading: 'demo/img/loading.svg',
     }, function(reset) {
         var tempEl = document.createElement('div');
         tempEl.className = 'demo__el';
